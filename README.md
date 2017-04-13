@@ -1,10 +1,10 @@
 # BehMod
 Computational Modeling 
 
-% Models physiological data, with Reinforcement Learning (RL), Bayesian (BL)
-% and Null models.
-% It requires Matlab optimisation toolbox and spm for the model comparison
-% functions.
+Models physiological data, with Reinforcement Learning (RL), Bayesian (BL)
+and Null models.
+It requires Matlab optimisation toolbox and spm for the model comparison
+functions.
 
 Function descriptions:
 
